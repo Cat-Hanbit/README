@@ -15,6 +15,10 @@
 1. [Yes24 링크](http://www.yes24.com/Product/Goods/85382769)
 2. [알라딘 링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=223323245)
 
+## 한빛 미디어 홈페이지 정오표
+
+[정오표](http://www.hanbit.co.kr/store/books/look.php?p_code=B5159933380)를 클릭하시면 홈페이지의 정오표를 보실 수 있습니다. 오탈자 제보시에는 먼저 확인해 주세요. 감사합니다.
+
 ## 질의응답 방법
 
 1. 본 저장소의 [Issues 탭](https://github.com/Cat-Hanbit/README/issues)으로 들어갑니다.
