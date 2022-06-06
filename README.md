@@ -2,7 +2,7 @@
 
 > QnA 및 공지를 위한 공개 저장소입니다
 
-<img width="576" alt="Screen Shot 2020-01-11 at 3 03 03 PM" src="https://user-images.githubusercontent.com/3839771/72199754-91d16200-3483-11ea-8479-578885a8d22f.png">
+<img width="300" alt="Screen Shot 2020-01-11 at 3 03 03 PM" src="https://user-images.githubusercontent.com/3839771/72199754-91d16200-3483-11ea-8479-578885a8d22f.png">
 
 - 초판 1쇄 발행 2020년 1월 2일
 - 지은이 정호영, 진유림 / 펴낸이 김태헌
