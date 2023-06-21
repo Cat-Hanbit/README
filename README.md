@@ -1,6 +1,6 @@
 ## 팀 개발을 위한 Git, GitHub 시작하기 `개정판`
 
-<img width="300" alt="Screen Shot 2020-01-11 at 3 03 03 PM" src="[https://user-images.githubusercontent.com/3839771/72199754-91d16200-3483-11ea-8479-578885a8d22f.png](https://github-production-user-asset-6210df.s3.amazonaws.com/41919801/247384299-b5fcf76f-0a54-4c89-85dc-6baf46f0982e.jpg)">
+<img width="300" alt="도서 표지" src="https://github-production-user-asset-6210df.s3.amazonaws.com/41919801/247384299-b5fcf76f-0a54-4c89-85dc-6baf46f0982e.jpg">
 
 - 초판 1쇄 발행 2020년 1월 6일
 - 개정판 1쇄 발행 2023년 5월 12일
