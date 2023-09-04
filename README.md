@@ -18,6 +18,10 @@
 - 특별판은 종이책 후반부의 CLI 파트와 이어지는 내용입니다. CLI 파트를 먼저 학습하신 후 특별판 Ebook을 학습해 주세요.
 - [특별판 링크](https://www.yes24.com/Product/Goods/119420040)
 
+## QA 게시판
+
+공부하다 궁금한 점이 생기거나 실습이 막혔을 경우 [QA용 이슈 게시판](https://github.com/Cat-Hanbit/README/issues) 을 이용해 주세요.
+
 ## 한빛미디어 홈페이지 정오표
 
 - [정오표](https://www.hanbit.co.kr/store/books/look.php?p_code=B4797999461)를 클릭하시면 홈페이지의 정오표를 보실 수 있습니다. 오탈자 제보시에는 먼저 확인해 주세요. 감사합니다.
